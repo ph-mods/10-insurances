@@ -1,0 +1,23 @@
+﻿<Database>
+    <GameDBStringTable ID="10INS_ANDY_MOD">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Andreas Fritz</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <GameDBLocalizedString>
+                <LocID>10INS_ANDY_MOD</LocID>
+                <Text>10 Insurancies</Text>
+            </GameDBLocalizedString>
+
+        </LocalizedStrings>
+
+
+    </GameDBStringTable>
+
+</Database>
